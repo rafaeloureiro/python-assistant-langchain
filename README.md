@@ -35,6 +35,6 @@ Obtenha sua API Key gratuita em https://console.groq.com/keys
 
 ## Stack
 
-- 🦜 [LangChain](https://python.langchain.com/) — LCEL + Streaming
-- ⚡ [Groq](https://groq.com/) — LLaMA 3.3 70B
-- 🎈 [Streamlit](https://streamlit.io/) — Interface web
+-  [LangChain](https://python.langchain.com/) — LCEL + Streaming
+-  [Groq](https://groq.com/) — LLaMA 3.3 70B
+-  [Streamlit](https://streamlit.io/) — Interface web
